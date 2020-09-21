@@ -1,2 +1,2 @@
 # Dino-s26 Page
-<Home><Blog><About>
+# HOME<Home> # Blog<Blog> # About<About>
